@@ -1,0 +1,1722 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-18 22:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: estato.php:23
+msgid "Custom JS (Top)"
+msgstr ""
+
+#: estato.php:45
+msgid "Custom JS (Bottom)"
+msgstr ""
+
+#: estato.php:62 estato.php:139 estato.php:216
+msgid "Share on Facebook"
+msgstr ""
+
+#: estato.php:77 estato.php:154 estato.php:231
+msgid "Share on Twitter"
+msgstr ""
+
+#: estato.php:92 estato.php:169 estato.php:246
+msgid "Share on Google Plus"
+msgstr ""
+
+#: estato.php:107 estato.php:184 estato.php:261
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: estato.php:122 estato.php:199 estato.php:276
+msgid "Share on VK"
+msgstr ""
+
+#: estato.php:361
+msgid "Header Left Widgets"
+msgstr ""
+
+#: estato.php:365
+msgid "Header Right Widgets"
+msgstr ""
+
+#: estato.php:371
+msgid "Footer Widgets"
+msgstr ""
+
+#: estato.php:2110
+msgid "dys"
+msgstr ""
+
+#: estato.php:2111
+msgid "hrs"
+msgstr ""
+
+#: estato.php:2112
+msgid "min"
+msgstr ""
+
+#: estato.php:2113
+msgid "sec"
+msgstr ""
+
+#: estato.php:2597 estato.php:2853 estato.php:4475
+msgid "by"
+msgstr ""
+
+#: estato.php:2738
+msgid "Category filter:"
+msgstr ""
+
+#: estato.php:2739
+msgid "All"
+msgstr ""
+
+#: estato.php:2748
+msgid "No more posts"
+msgstr ""
+
+#: estato.php:3063 estato.php:3065 estato.php:3432 estato.php:3596
+msgid "Image"
+msgstr ""
+
+#: estato.php:3063
+msgid "Single image"
+msgstr ""
+
+#: estato.php:3066
+msgid "Caption Supetitle"
+msgstr ""
+
+#: estato.php:3067
+msgid "Caption"
+msgstr ""
+
+#: estato.php:3068
+msgid "Show Captions"
+msgstr ""
+
+#: estato.php:3070 estato.php:3112 estato.php:3122 estato.php:3138
+#: estato.php:3150 estato.php:3243 estato.php:3248 estato.php:3283
+#: estato.php:3288 estato.php:3333 estato.php:3387 estato.php:3455
+#: estato.php:3470 estato.php:3535 estato.php:3576 estato.php:3581
+#: estato.php:3586 estato.php:3606 estato.php:3616 estato.php:3626
+#: estato.php:3661 estato.php:3696 estato.php:3701 estato.php:3706
+#: estato.php:3726 estato.php:3753 estato.php:3763 estato.php:3768
+msgid "No"
+msgstr ""
+
+#: estato.php:3071 estato.php:3139 estato.php:3151 estato.php:3244
+#: estato.php:3249 estato.php:3284 estato.php:3289 estato.php:3456
+#: estato.php:3536 estato.php:3577 estato.php:3582 estato.php:3587
+#: estato.php:3627 estato.php:3695 estato.php:3700 estato.php:3705
+#: estato.php:3727 estato.php:3754 estato.php:3764 estato.php:3769
+msgid "Yes"
+msgstr ""
+
+#: estato.php:3073 estato.php:3494 estato.php:3515 estato.php:3528
+msgid "Size"
+msgstr ""
+
+#: estato.php:3073 estato.php:3087 estato.php:3130 estato.php:3153
+#: estato.php:3154 estato.php:3155 estato.php:3246 estato.php:3251
+#: estato.php:3252 estato.php:3253 estato.php:3254
+msgid "Design"
+msgstr ""
+
+#: estato.php:3075 estato.php:3505
+msgid "Full"
+msgstr ""
+
+#: estato.php:3076
+msgid "Small (320px)"
+msgstr ""
+
+#: estato.php:3077
+msgid "Small Rectangle (320x240px)"
+msgstr ""
+
+#: estato.php:3078
+msgid "Medium (640px)"
+msgstr ""
+
+#: estato.php:3079
+msgid "Medium Square (640x640px)"
+msgstr ""
+
+#: estato.php:3080
+msgid "Medium Rectangle (640x480px)"
+msgstr ""
+
+#: estato.php:3081
+msgid "Large (1280px)"
+msgstr ""
+
+#: estato.php:3082
+msgid "Large Square (1280x1280px)"
+msgstr ""
+
+#: estato.php:3083
+msgid "Large Rectangle (1280x640px)"
+msgstr ""
+
+#: estato.php:3084
+msgid "Large Vertical Rectangle (640x1280px)"
+msgstr ""
+
+#: estato.php:3085
+msgid "Thumbnail  (160x160px)"
+msgstr ""
+
+#: estato.php:3087
+msgid "Shape"
+msgstr ""
+
+#: estato.php:3089
+msgid "Square"
+msgstr ""
+
+#: estato.php:3090
+msgid "Circle"
+msgstr ""
+
+#: estato.php:3092 estato.php:3382 estato.php:3433 estato.php:3467
+#: estato.php:3658
+msgid "URL"
+msgstr ""
+
+#: estato.php:3093
+msgid "Target"
+msgstr ""
+
+#: estato.php:3095 estato.php:3471 estato.php:3662
+msgid "Self"
+msgstr ""
+
+#: estato.php:3096 estato.php:3472 estato.php:3663
+msgid "Blank"
+msgstr ""
+
+#: estato.php:3098 estato.php:3174 estato.php:3181 estato.php:3188
+#: estato.php:3196 estato.php:3255 estato.php:3306 estato.php:3339
+#: estato.php:3391 estato.php:3405 estato.php:3415 estato.php:3434
+#: estato.php:3458 estato.php:3507 estato.php:3520 estato.php:3538
+#: estato.php:3553 estato.php:3589 estato.php:3597 estato.php:3629
+#: estato.php:3667 estato.php:3674 estato.php:3708 estato.php:3771
+#: estato.php:3805 estato.php:3818 estato.php:3826
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: estato.php:3098 estato.php:3099 estato.php:3173 estato.php:3174
+#: estato.php:3175 estato.php:3181 estato.php:3182 estato.php:3188
+#: estato.php:3189 estato.php:3196 estato.php:3197 estato.php:3255
+#: estato.php:3256 estato.php:3306 estato.php:3307 estato.php:3339
+#: estato.php:3340 estato.php:3391 estato.php:3392 estato.php:3415
+#: estato.php:3416 estato.php:3434 estato.php:3435 estato.php:3458
+#: estato.php:3459 estato.php:3507 estato.php:3508 estato.php:3520
+#: estato.php:3521 estato.php:3538 estato.php:3539 estato.php:3553
+#: estato.php:3554 estato.php:3589 estato.php:3590 estato.php:3597
+#: estato.php:3598 estato.php:3629 estato.php:3630 estato.php:3667
+#: estato.php:3668 estato.php:3674 estato.php:3675 estato.php:3708
+#: estato.php:3709 estato.php:3771 estato.php:3772 estato.php:3805
+#: estato.php:3806 estato.php:3818 estato.php:3819 estato.php:3826
+#: estato.php:3827
+msgid "Custom"
+msgstr ""
+
+#: estato.php:3099 estato.php:3175 estato.php:3182 estato.php:3189
+#: estato.php:3197 estato.php:3256 estato.php:3307 estato.php:3340
+#: estato.php:3392 estato.php:3406 estato.php:3416 estato.php:3435
+#: estato.php:3459 estato.php:3508 estato.php:3521 estato.php:3539
+#: estato.php:3554 estato.php:3590 estato.php:3598 estato.php:3630
+#: estato.php:3668 estato.php:3675 estato.php:3709 estato.php:3772
+#: estato.php:3806 estato.php:3819 estato.php:3827
+msgid "Inline Style"
+msgstr ""
+
+#: estato.php:3103
+msgid "Section"
+msgstr ""
+
+#: estato.php:3103
+msgid "Basic root element"
+msgstr ""
+
+#: estato.php:3105
+msgid "Layout"
+msgstr ""
+
+#: estato.php:3107
+msgid "Boxed"
+msgstr ""
+
+#: estato.php:3108
+msgid "Wide"
+msgstr ""
+
+#: estato.php:3110 estato.php:3604
+msgid "Top spaced"
+msgstr ""
+
+#: estato.php:3113 estato.php:3123 estato.php:3607 estato.php:3617
+msgid "Extra-Small-Spaced"
+msgstr ""
+
+#: estato.php:3114 estato.php:3124 estato.php:3608 estato.php:3618
+msgid "Small-Spaced"
+msgstr ""
+
+#: estato.php:3115 estato.php:3125 estato.php:3609 estato.php:3619
+msgid "Semi-Spaced"
+msgstr ""
+
+#: estato.php:3116 estato.php:3126 estato.php:3610 estato.php:3620
+msgid "Spaced"
+msgstr ""
+
+#: estato.php:3117 estato.php:3127 estato.php:3611 estato.php:3621
+msgid "Large Spaced"
+msgstr ""
+
+#: estato.php:3118
+msgid "Extra-Large Spaced"
+msgstr ""
+
+#: estato.php:3120 estato.php:3614
+msgid "Bottom spaced"
+msgstr ""
+
+#: estato.php:3128 estato.php:3612 estato.php:3622
+msgid "Extra-Spaced"
+msgstr ""
+
+#: estato.php:3130
+msgid "Skin"
+msgstr ""
+
+#: estato.php:3132 estato.php:3143 estato.php:3211 estato.php:3276
+msgid "Inherit"
+msgstr ""
+
+#: estato.php:3133
+msgid "Dark"
+msgstr ""
+
+#: estato.php:3134
+msgid "Light"
+msgstr ""
+
+#: estato.php:3136
+msgid "Full Screen"
+msgstr ""
+
+#: estato.php:3141 estato.php:3209 estato.php:3274
+msgid "Vertical Align"
+msgstr ""
+
+#: estato.php:3144 estato.php:3212 estato.php:3277 estato.php:3334
+#: estato.php:3474 estato.php:3665
+msgid "Top"
+msgstr ""
+
+#: estato.php:3145 estato.php:3213 estato.php:3278
+msgid "Middle"
+msgstr ""
+
+#: estato.php:3146 estato.php:3214 estato.php:3279 estato.php:3335
+#: estato.php:3388
+msgid "Bottom"
+msgstr ""
+
+#: estato.php:3148
+msgid "Divider"
+msgstr ""
+
+#: estato.php:3153
+msgid "Background Image"
+msgstr ""
+
+#: estato.php:3154 estato.php:3251 estato.php:3304
+msgid "Background color"
+msgstr ""
+
+#: estato.php:3155
+msgid "Background Overlay"
+msgstr ""
+
+#: estato.php:3157
+msgid "None"
+msgstr ""
+
+#: estato.php:3158
+msgid "Light Stripes"
+msgstr ""
+
+#: estato.php:3159
+msgid "Dark Stripes"
+msgstr ""
+
+#: estato.php:3160
+msgid "Dark Solid"
+msgstr ""
+
+#: estato.php:3161
+msgid "Light Solid"
+msgstr ""
+
+#: estato.php:3163
+msgid "YouTube Background Video"
+msgstr ""
+
+#: estato.php:3164
+msgid "Video Settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: estato.php:3165
+msgid "MP4 Background Video"
+msgstr ""
+
+#: estato.php:3166
+msgid "Ogg Background Video"
+msgstr ""
+
+#: estato.php:3167
+msgid "WebM Background Video"
+msgstr ""
+
+#: estato.php:3168
+msgid "Parallax (e.g. -.7)"
+msgstr ""
+
+#: estato.php:3169
+msgid "Parallax Offset in px (e.g. -100)"
+msgstr ""
+
+#: estato.php:3170
+msgid "Animation (forward)"
+msgstr ""
+
+#: estato.php:3171
+msgid "Animation (backward)"
+msgstr ""
+
+#: estato.php:3172
+msgid "Impress Animation Settings"
+msgstr ""
+
+#: estato.php:3173
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: estato.php:3179
+msgid "Row"
+msgstr ""
+
+#: estato.php:3179
+msgid "Row element"
+msgstr ""
+
+#: estato.php:3186
+msgid "Inner Row"
+msgstr ""
+
+#: estato.php:3186
+msgid "Inner Row element"
+msgstr ""
+
+#: estato.php:3193
+msgid "Custom Menu"
+msgstr ""
+
+#: estato.php:3195
+msgid "Menu Name"
+msgstr ""
+
+#: estato.php:3201
+msgid "Column"
+msgstr ""
+
+#: estato.php:3201
+msgid "Column element"
+msgstr ""
+
+#: estato.php:3203 estato.php:3262
+msgid "Align"
+msgstr ""
+
+#: estato.php:3205 estato.php:3219 estato.php:3264 estato.php:3486
+msgid "Left"
+msgstr ""
+
+#: estato.php:3206 estato.php:3220 estato.php:3265 estato.php:3484
+msgid "Right"
+msgstr ""
+
+#: estato.php:3207 estato.php:3266
+msgid "Center"
+msgstr ""
+
+#: estato.php:3216 estato.php:3624
+msgid "Border"
+msgstr ""
+
+#: estato.php:3218
+msgid "No Border"
+msgstr ""
+
+#: estato.php:3222 estato.php:3268
+msgid "Padding"
+msgstr ""
+
+#: estato.php:3224 estato.php:3270 estato.php:3327 estato.php:3364
+#: estato.php:3370 estato.php:3570 estato.php:3640 estato.php:3646
+msgid "Default"
+msgstr ""
+
+#: estato.php:3225 estato.php:3271
+msgid "No padding"
+msgstr ""
+
+#: estato.php:3226 estato.php:3272
+msgid "Double padding"
+msgstr ""
+
+#: estato.php:3228 estato.php:3291
+msgid "Animation"
+msgstr ""
+
+#: estato.php:3230 estato.php:3293
+msgid "No Animation"
+msgstr ""
+
+#: estato.php:3231 estato.php:3294
+msgid "Fade In"
+msgstr ""
+
+#: estato.php:3232 estato.php:3295
+msgid "Move Up"
+msgstr ""
+
+#: estato.php:3233 estato.php:3296
+msgid "Move Left"
+msgstr ""
+
+#: estato.php:3234 estato.php:3297
+msgid "Move Right"
+msgstr ""
+
+#: estato.php:3235 estato.php:3298
+msgid "Move Down"
+msgstr ""
+
+#: estato.php:3236 estato.php:3299
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: estato.php:3237 estato.php:3300
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: estato.php:3238 estato.php:3301
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: estato.php:3239 estato.php:3302
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: estato.php:3241 estato.php:3286
+msgid "Text indent"
+msgstr ""
+
+#: estato.php:3246
+msgid "Cell highlight"
+msgstr ""
+
+#: estato.php:3252
+msgid "Transparent (e.g. 0.4) (deprecated)"
+msgstr ""
+
+#: estato.php:3253
+msgid "Inner Background color"
+msgstr ""
+
+#: estato.php:3254
+msgid "Background image"
+msgstr ""
+
+#: estato.php:3260
+msgid "Inner Column"
+msgstr ""
+
+#: estato.php:3260
+msgid "Inner Column element"
+msgstr ""
+
+#: estato.php:3281
+msgid "Highlight"
+msgstr ""
+
+#: estato.php:3305
+msgid "Opacity (0 - 1, e.g. 0.4) (deprecated)"
+msgstr ""
+
+#: estato.php:3311 estato.php:3390 estato.php:3465 estato.php:3545
+msgid "Text"
+msgstr ""
+
+#: estato.php:3311
+msgid "Text element"
+msgstr ""
+
+#: estato.php:3313
+msgid "Header"
+msgstr ""
+
+#: estato.php:3313
+msgid "Header element"
+msgstr ""
+
+#: estato.php:3315 estato.php:3383
+msgid "Superheadline"
+msgstr ""
+
+#: estato.php:3316 estato.php:3347 estato.php:3355 estato.php:3384
+msgid "Headline"
+msgstr ""
+
+#: estato.php:3317
+msgid "Headline Size"
+msgstr ""
+
+#: estato.php:3319 estato.php:3376 estato.php:3496 estato.php:3563
+#: estato.php:3652
+msgid "Small"
+msgstr ""
+
+#: estato.php:3320 estato.php:3378 estato.php:3498 estato.php:3564
+#: estato.php:3654
+msgid "Medium"
+msgstr ""
+
+#: estato.php:3321 estato.php:3380 estato.php:3518 estato.php:3531
+#: estato.php:3565 estato.php:3656
+msgid "Large"
+msgstr ""
+
+#: estato.php:3322
+msgid "Extra large"
+msgstr ""
+
+#: estato.php:3323
+msgid "Huge"
+msgstr ""
+
+#: estato.php:3325
+msgid "Headline Color"
+msgstr ""
+
+#: estato.php:3328 estato.php:3371 estato.php:3491 estato.php:3647
+msgid "Accent"
+msgstr ""
+
+#: estato.php:3329 estato.php:3372 estato.php:3492 estato.php:3648
+msgid "Alternate"
+msgstr ""
+
+#: estato.php:3331 estato.php:3385
+msgid "Dash"
+msgstr ""
+
+#: estato.php:3336
+msgid "Top and Bottom"
+msgstr ""
+
+#: estato.php:3338
+msgid "Subheadline"
+msgstr ""
+
+#: estato.php:3344
+msgid "Tabs"
+msgstr ""
+
+#: estato.php:3344
+msgid "Tabs container"
+msgstr ""
+
+#: estato.php:3346
+msgid "Tab Item"
+msgstr ""
+
+#: estato.php:3346
+msgid "Tabs items"
+msgstr ""
+
+#: estato.php:3351
+msgid "Accordion"
+msgstr ""
+
+#: estato.php:3351
+msgid "Accordion container"
+msgstr ""
+
+#: estato.php:3353
+msgid "Accordion Item"
+msgstr ""
+
+#: estato.php:3353
+msgid "Single accordion element"
+msgstr ""
+
+#: estato.php:3359
+msgid "Service"
+msgstr ""
+
+#: estato.php:3359
+msgid "Service element"
+msgstr ""
+
+#: estato.php:3361 estato.php:3414 estato.php:3466 estato.php:3634
+#: estato.php:3636
+msgid "Icon"
+msgstr ""
+
+#: estato.php:3362 estato.php:3638
+msgid "Icon Type"
+msgstr ""
+
+#: estato.php:3365 estato.php:3479 estato.php:3550 estato.php:3641
+msgid "Filled"
+msgstr ""
+
+#: estato.php:3366 estato.php:3478 estato.php:3642
+msgid "Outline"
+msgstr ""
+
+#: estato.php:3368 estato.php:3644
+msgid "Icon Color"
+msgstr ""
+
+#: estato.php:3374 estato.php:3650
+msgid "Icon Size"
+msgstr ""
+
+#: estato.php:3377 estato.php:3497 estato.php:3653
+msgid "Extra Small"
+msgstr ""
+
+#: estato.php:3379 estato.php:3499 estato.php:3655
+msgid "Big"
+msgstr ""
+
+#: estato.php:3396
+msgid "Google Maps"
+msgstr ""
+
+#: estato.php:3396
+msgid "Google Maps with marker on specified coordinates"
+msgstr ""
+
+#: estato.php:3398
+msgid "API key"
+msgstr ""
+
+#: estato.php:3399
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: estato.php:3400
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: estato.php:3401
+msgid "Map primary color"
+msgstr ""
+
+#: estato.php:3402
+msgid "Map secondary color"
+msgstr ""
+
+#: estato.php:3403
+msgid "Map water color"
+msgstr ""
+
+#: estato.php:3404
+msgid "Custom map style array"
+msgstr ""
+
+#: estato.php:3410
+msgid "Google Maps Location"
+msgstr ""
+
+#: estato.php:3410
+msgid "Google Maps location with marker on specified coordinates"
+msgstr ""
+
+#: estato.php:3412
+msgid "Latitude"
+msgstr ""
+
+#: estato.php:3413
+msgid "Longitude"
+msgstr ""
+
+#: estato.php:3420
+msgid "Simple slider"
+msgstr ""
+
+#: estato.php:3422 estato.php:3448
+msgid "Type"
+msgstr ""
+
+#: estato.php:3424 estato.php:3450 estato.php:3558
+msgid "Slider"
+msgstr ""
+
+#: estato.php:3425 estato.php:3713
+msgid "Grid"
+msgstr ""
+
+#: estato.php:3430
+msgid "Simple slider item"
+msgstr ""
+
+#: estato.php:3439 estato.php:4766
+msgid "Twitter"
+msgstr ""
+
+#: estato.php:3439
+msgid "Twitter posts"
+msgstr ""
+
+#: estato.php:3441
+msgid "Number of Tweets"
+msgstr ""
+
+#: estato.php:3442
+msgid "Username (or #hashtag)"
+msgstr ""
+
+#: estato.php:3443
+msgid "Cache (minutes)"
+msgstr ""
+
+#: estato.php:3444
+msgid "Consumer Key"
+msgstr ""
+
+#: estato.php:3445
+msgid "Consumer Secret"
+msgstr ""
+
+#: estato.php:3446
+msgid "Access Token"
+msgstr ""
+
+#: estato.php:3447
+msgid "Access Token Secret"
+msgstr ""
+
+#: estato.php:3451
+msgid "Regular"
+msgstr ""
+
+#: estato.php:3453
+msgid "Show avatar"
+msgstr ""
+
+#: estato.php:3463
+msgid "Button"
+msgstr ""
+
+#: estato.php:3463
+msgid "Button with custom link"
+msgstr ""
+
+#: estato.php:3468 estato.php:3659
+msgid "Target window"
+msgstr ""
+
+#: estato.php:3473 estato.php:3664
+msgid "Parent"
+msgstr ""
+
+#: estato.php:3476 estato.php:3548
+msgid "Style"
+msgstr ""
+
+#: estato.php:3480
+msgid "Borderless"
+msgstr ""
+
+#: estato.php:3482
+msgid "Icon Position"
+msgstr ""
+
+#: estato.php:3485
+msgid "Inline"
+msgstr ""
+
+#: estato.php:3488 estato.php:3547
+msgid "Color"
+msgstr ""
+
+#: estato.php:3490 estato.php:3504 estato.php:3517 estato.php:3530
+msgid "Normal"
+msgstr ""
+
+#: estato.php:3502
+msgid "Width"
+msgstr ""
+
+#: estato.php:3512
+msgid "Counter"
+msgstr ""
+
+#: estato.php:3512
+msgid "Animated counter"
+msgstr ""
+
+#: estato.php:3514
+msgid "Number"
+msgstr ""
+
+#: estato.php:3525
+msgid "Countdown"
+msgstr ""
+
+#: estato.php:3525
+msgid "Animated countdown"
+msgstr ""
+
+#: estato.php:3527
+msgid "Target Date and Time"
+msgstr ""
+
+#: estato.php:3527
+msgid "YY-mm-dd HH:mm:ss, e.g. 2015-02-22 22:45:00"
+msgstr ""
+
+#: estato.php:3533
+msgid "Hide Indication"
+msgstr ""
+
+#: estato.php:3533
+msgid "Hide indication of days, hours, minutes and seconds"
+msgstr ""
+
+#: estato.php:3543
+msgid "Percentage bar"
+msgstr ""
+
+#: estato.php:3543
+msgid "Animated percentage bar"
+msgstr ""
+
+#: estato.php:3546
+msgid "Percentage"
+msgstr ""
+
+#: estato.php:3551
+msgid "Line"
+msgstr ""
+
+#: estato.php:3558
+msgid "Slider container"
+msgstr ""
+
+#: estato.php:3560
+msgid "Slider height"
+msgstr ""
+
+#: estato.php:3562
+msgid "Auto"
+msgstr ""
+
+#: estato.php:3567
+msgid "Auto Play Speed (e.g. 3000)"
+msgstr ""
+
+#: estato.php:3568
+msgid "Arrows Position"
+msgstr ""
+
+#: estato.php:3571
+msgid "Bottom left"
+msgstr ""
+
+#: estato.php:3572
+msgid "Bottom right"
+msgstr ""
+
+#: estato.php:3574
+msgid "Hide Arrows"
+msgstr ""
+
+#: estato.php:3579
+msgid "Hide Paging"
+msgstr ""
+
+#: estato.php:3584
+msgid "Simple Arrows"
+msgstr ""
+
+#: estato.php:3594
+msgid "Slider Item"
+msgstr ""
+
+#: estato.php:3594
+msgid "Individual slide element"
+msgstr ""
+
+#: estato.php:3602
+msgid "Separator"
+msgstr ""
+
+#: estato.php:3602
+msgid "Horizontal separator"
+msgstr ""
+
+#: estato.php:3634
+msgid "Single icon with link"
+msgstr ""
+
+#: estato.php:3637 estato.php:3812
+msgid "Title"
+msgstr ""
+
+#: estato.php:3672
+msgid "Icon and images holder"
+msgstr ""
+
+#: estato.php:3672
+msgid "Icon container"
+msgstr ""
+
+#: estato.php:3679
+msgid "Latest Posts"
+msgstr ""
+
+#: estato.php:3679
+msgid "Recent posts"
+msgstr ""
+
+#: estato.php:3681
+msgid "Number of Items"
+msgstr ""
+
+#: estato.php:3682 estato.php:3723
+msgid "Category Slug"
+msgstr ""
+
+#: estato.php:3683
+msgid "Format"
+msgstr ""
+
+#: estato.php:3685
+msgid "Horizontal"
+msgstr ""
+
+#: estato.php:3686
+msgid "Vertical"
+msgstr ""
+
+#: estato.php:3688 estato.php:3756
+msgid "Post Type"
+msgstr ""
+
+#: estato.php:3690 estato.php:3758
+msgid "Blog"
+msgstr ""
+
+#: estato.php:3691 estato.php:3759 estato.php:4860
+msgid "Portfolio"
+msgstr ""
+
+#: estato.php:3693
+msgid "Show Excerpt"
+msgstr ""
+
+#: estato.php:3698
+msgid "Show Date"
+msgstr ""
+
+#: estato.php:3703
+msgid "Show Author"
+msgstr ""
+
+#: estato.php:3713
+msgid "Grid with recent posts"
+msgstr ""
+
+#: estato.php:3715
+msgid "Number of items"
+msgstr ""
+
+#: estato.php:3716 estato.php:3797
+msgid "Columns"
+msgstr ""
+
+#: estato.php:3718 estato.php:3739 estato.php:3786 estato.php:3799
+msgid "3"
+msgstr ""
+
+#: estato.php:3719 estato.php:3740 estato.php:3787 estato.php:3800
+msgid "4"
+msgstr ""
+
+#: estato.php:3720 estato.php:3741 estato.php:3788 estato.php:3801
+msgid "5"
+msgstr ""
+
+#: estato.php:3721 estato.php:3742 estato.php:3789 estato.php:3802
+msgid "6"
+msgstr ""
+
+#: estato.php:3724
+msgid "Category Filter"
+msgstr ""
+
+#: estato.php:3729
+msgid "Grid Type"
+msgstr ""
+
+#: estato.php:3731
+msgid "Classic"
+msgstr ""
+
+#: estato.php:3732
+msgid "Tiled"
+msgstr ""
+
+#: estato.php:3734 estato.php:3781
+msgid "Grid Gap"
+msgstr ""
+
+#: estato.php:3736 estato.php:3783
+msgid "0"
+msgstr ""
+
+#: estato.php:3737 estato.php:3784
+msgid "1"
+msgstr ""
+
+#: estato.php:3738 estato.php:3785
+msgid "2"
+msgstr ""
+
+#: estato.php:3743 estato.php:3790
+msgid "7"
+msgstr ""
+
+#: estato.php:3744 estato.php:3791
+msgid "8"
+msgstr ""
+
+#: estato.php:3745 estato.php:3792
+msgid "9"
+msgstr ""
+
+#: estato.php:3746 estato.php:3793
+msgid "10"
+msgstr ""
+
+#: estato.php:3747 estato.php:3794
+msgid "15"
+msgstr ""
+
+#: estato.php:3748 estato.php:3795
+msgid "20"
+msgstr ""
+
+#: estato.php:3750
+msgid "Tiled Format"
+msgstr ""
+
+#: estato.php:3751
+msgid "Show Title in Tiles"
+msgstr ""
+
+#: estato.php:3761
+msgid "Scroll Loading"
+msgstr ""
+
+#: estato.php:3766
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: estato.php:3776
+msgid "Grid Gallery"
+msgstr ""
+
+#: estato.php:3776
+msgid "Responsive grid gallery with lightbox."
+msgstr ""
+
+#: estato.php:3778
+msgid "Images"
+msgstr ""
+
+#: estato.php:3779
+msgid "Format (e.g. 21,11,12)"
+msgstr ""
+
+#: estato.php:3804
+msgid "Links (in one line, separated by commas)"
+msgstr ""
+
+#: estato.php:3810
+msgid "Price List"
+msgstr ""
+
+#: estato.php:3810
+msgid "Price List element"
+msgstr ""
+
+#: estato.php:3813
+msgid "Subtitle"
+msgstr ""
+
+#: estato.php:3814
+msgid "Sticker Text"
+msgstr ""
+
+#: estato.php:3815
+msgid "Currency"
+msgstr ""
+
+#: estato.php:3816
+msgid "Price"
+msgstr ""
+
+#: estato.php:3817
+msgid "Items"
+msgstr ""
+
+#: estato.php:3823
+msgid "Data list"
+msgstr ""
+
+#: estato.php:3823
+msgid "Data list with links"
+msgstr ""
+
+#: estato.php:3825
+msgid "Data List"
+msgstr ""
+
+#: estato.php:3825
+msgid ""
+"value;value;URL title,URL separated by new line (leave ; at the end to "
+"remove link)"
+msgstr ""
+
+#: estato.php:3847
+msgid "BT Gallery"
+msgstr ""
+
+#: estato.php:3848
+msgid "Gallery widget."
+msgstr ""
+
+#: estato.php:3867
+msgid "Gallery"
+msgstr ""
+
+#: estato.php:3871 estato.php:3926 estato.php:4040 estato.php:4420
+#: estato.php:4489 estato.php:4576 estato.php:4776
+msgid "Title:"
+msgstr ""
+
+#: estato.php:3875
+msgid "List of image IDs (comma-separated):"
+msgstr ""
+
+#: estato.php:3900
+msgid "BT Text Image"
+msgstr ""
+
+#: estato.php:3901
+msgid "Text with image."
+msgstr ""
+
+#: estato.php:3930
+msgid "Image IDs:"
+msgstr ""
+
+#: estato.php:3934 estato.php:4044
+msgid "Text:"
+msgstr ""
+
+#: estato.php:3960
+msgid "BT Icon"
+msgstr ""
+
+#: estato.php:3961
+msgid "Icon with text and link."
+msgstr ""
+
+#: estato.php:4025
+msgid "Icon:"
+msgstr ""
+
+#: estato.php:4048
+msgid "URL or slug:"
+msgstr ""
+
+#: estato.php:4053
+msgid "Show in accent color"
+msgstr ""
+
+#: estato.php:4056
+msgid "Target:"
+msgstr ""
+
+#: estato.php:4097
+msgid "BT Weather"
+msgstr ""
+
+#: estato.php:4098
+msgid "Weather widget."
+msgstr ""
+
+#: estato.php:4127
+msgid "Latitude:"
+msgstr ""
+
+#: estato.php:4131
+msgid "Longitude:"
+msgstr ""
+
+#: estato.php:4135
+msgid "Temperature unit:"
+msgstr ""
+
+#: estato.php:4138
+msgid "Celsius"
+msgstr ""
+
+#: estato.php:4138
+msgid "Fahrenheit"
+msgstr ""
+
+#: estato.php:4150
+msgid "Type:"
+msgstr ""
+
+#: estato.php:4153 estato.php:4199
+msgid "Now"
+msgstr ""
+
+#: estato.php:4153 estato.php:4203
+msgid "Today"
+msgstr ""
+
+#: estato.php:4153 estato.php:4207
+msgid "Tomorrow"
+msgstr ""
+
+#: estato.php:4229
+msgid "BT Time"
+msgstr ""
+
+#: estato.php:4230
+msgid "Time widget."
+msgstr ""
+
+#: estato.php:4258
+msgid "Time zone:"
+msgstr ""
+
+#: estato.php:4277
+msgid "Place name:"
+msgstr ""
+
+#: estato.php:4281
+msgid "Time notation:"
+msgstr ""
+
+#: estato.php:4287
+msgid "24 hours"
+msgstr ""
+
+#: estato.php:4287
+msgid "12 hours"
+msgstr ""
+
+#: estato.php:4356
+msgid "BT Recent Posts"
+msgstr ""
+
+#: estato.php:4357
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: estato.php:4416
+msgid "Recent Posts"
+msgstr ""
+
+#: estato.php:4424
+msgid "Number of posts:"
+msgstr ""
+
+#: estato.php:4450
+msgid "BT Recent Comments"
+msgstr ""
+
+#: estato.php:4451
+msgid "Recent comments with avatars."
+msgstr ""
+
+#: estato.php:4485
+msgid "Recent Comments"
+msgstr ""
+
+#: estato.php:4493
+msgid "Number of comments:"
+msgstr ""
+
+#: estato.php:4520
+msgid "BT Instagram"
+msgstr ""
+
+#: estato.php:4521
+msgid "Instagram photos."
+msgstr ""
+
+#: estato.php:4568
+msgid "Instagram"
+msgstr ""
+
+#: estato.php:4580
+msgid "Number of photos:"
+msgstr ""
+
+#: estato.php:4584
+msgid "User ID:"
+msgstr ""
+
+#: estato.php:4588
+msgid "Hashtag:"
+msgstr ""
+
+#: estato.php:4592
+msgid "Client ID:"
+msgstr ""
+
+#: estato.php:4596 estato.php:4800
+msgid "Access token:"
+msgstr ""
+
+#: estato.php:4716
+msgid "BT Twitter"
+msgstr ""
+
+#: estato.php:4717
+msgid "Twitter feed."
+msgstr ""
+
+#: estato.php:4780
+msgid "Number of tweets:"
+msgstr ""
+
+#: estato.php:4784
+msgid "Username  (or #hashtag):"
+msgstr ""
+
+#: estato.php:4788
+msgid "Cache (minutes):"
+msgstr ""
+
+#: estato.php:4792
+msgid "Consumer key:"
+msgstr ""
+
+#: estato.php:4796
+msgid "Consumer secret:"
+msgstr ""
+
+#: estato.php:4804
+msgid "Access token secret:"
+msgstr ""
+
+#: estato.php:4861
+msgid "Portfolio Item"
+msgstr ""
+
+#: estato.php:4870
+msgid "Portfolio Categories"
+msgstr ""
+
+#: section_anims.php:7
+msgid "Move to left | from right"
+msgstr ""
+
+#: section_anims.php:8
+msgid "Move to right | from left"
+msgstr ""
+
+#: section_anims.php:9
+msgid "Move to top | from bottom"
+msgstr ""
+
+#: section_anims.php:10
+msgid "Move to bottom | from top"
+msgstr ""
+
+#: section_anims.php:11
+msgid "Fade | from right"
+msgstr ""
+
+#: section_anims.php:12
+msgid "Fade | from left"
+msgstr ""
+
+#: section_anims.php:13
+msgid "Fade | from bottom"
+msgstr ""
+
+#: section_anims.php:14
+msgid "Fade | from top"
+msgstr ""
+
+#: section_anims.php:15
+msgid "Fade left | Fade right"
+msgstr ""
+
+#: section_anims.php:16
+msgid "Fade right | Fade left"
+msgstr ""
+
+#: section_anims.php:17
+msgid "Fade top | Fade bottom"
+msgstr ""
+
+#: section_anims.php:18
+msgid "Fade bottom | Fade top"
+msgstr ""
+
+#: section_anims.php:19
+msgid "Different easing | from right"
+msgstr ""
+
+#: section_anims.php:20
+msgid "Different easing | from left"
+msgstr ""
+
+#: section_anims.php:21
+msgid "Different easing | from bottom"
+msgstr ""
+
+#: section_anims.php:22
+msgid "Different easing | from top"
+msgstr ""
+
+#: section_anims.php:23
+msgid "Scale down | from right"
+msgstr ""
+
+#: section_anims.php:24
+msgid "Scale down | from left"
+msgstr ""
+
+#: section_anims.php:25
+msgid "Scale down | from bottom"
+msgstr ""
+
+#: section_anims.php:26
+msgid "Scale down | from top"
+msgstr ""
+
+#: section_anims.php:27
+msgid "Scale down | scale down"
+msgstr ""
+
+#: section_anims.php:28
+msgid "Scale up | scale up"
+msgstr ""
+
+#: section_anims.php:29
+msgid "Move to left | scale up"
+msgstr ""
+
+#: section_anims.php:30
+msgid "Move to right | scale up"
+msgstr ""
+
+#: section_anims.php:31
+msgid "Move to top | scale up"
+msgstr ""
+
+#: section_anims.php:32
+msgid "Move to bottom | scale up"
+msgstr ""
+
+#: section_anims.php:33
+msgid "Scale down | scale up"
+msgstr ""
+
+#: section_anims.php:34
+msgid "Glue left | from right"
+msgstr ""
+
+#: section_anims.php:35
+msgid "Glue right | from left"
+msgstr ""
+
+#: section_anims.php:36
+msgid "Glue bottom | from top"
+msgstr ""
+
+#: section_anims.php:37
+msgid "Glue top | from bottom"
+msgstr ""
+
+#: section_anims.php:38
+msgid "Flip right"
+msgstr ""
+
+#: section_anims.php:39
+msgid "Flip left"
+msgstr ""
+
+#: section_anims.php:40
+msgid "Flip top"
+msgstr ""
+
+#: section_anims.php:41
+msgid "Flip bottom"
+msgstr ""
+
+#: section_anims.php:42
+msgid "Push left | from right"
+msgstr ""
+
+#: section_anims.php:43
+msgid "Push right | from left"
+msgstr ""
+
+#: section_anims.php:44
+msgid "Push top | from bottom"
+msgstr ""
+
+#: section_anims.php:45
+msgid "Push bottom | from top"
+msgstr ""
+
+#: section_anims.php:46
+msgid "Push left | pull right"
+msgstr ""
+
+#: section_anims.php:47
+msgid "Push right | pull left"
+msgstr ""
+
+#: section_anims.php:48
+msgid "Push top | pull bottom"
+msgstr ""
+
+#: section_anims.php:49
+msgid "Push bottom | pull top"
+msgstr ""
+
+#: section_anims.php:50
+msgid "Fold left | from right"
+msgstr ""
+
+#: section_anims.php:51
+msgid "Fold right | from left"
+msgstr ""
+
+#: section_anims.php:52
+msgid "Fold top | from bottom"
+msgstr ""
+
+#: section_anims.php:53
+msgid "Fold bottom | from top"
+msgstr ""
+
+#: section_anims.php:54
+msgid "Move to right | unfold left"
+msgstr ""
+
+#: section_anims.php:55
+msgid "Move to left | unfold right"
+msgstr ""
+
+#: section_anims.php:56
+msgid "Move to bottom | unfold top"
+msgstr ""
+
+#: section_anims.php:57
+msgid "Move to top | unfold bottom"
+msgstr ""
+
+#: section_anims.php:58
+msgid "Room to left"
+msgstr ""
+
+#: section_anims.php:59
+msgid "Room to right"
+msgstr ""
+
+#: section_anims.php:60
+msgid "Room to top"
+msgstr ""
+
+#: section_anims.php:61
+msgid "Room to bottom"
+msgstr ""
+
+#: section_anims.php:62
+msgid "Cube to left"
+msgstr ""
+
+#: section_anims.php:63
+msgid "Cube to right"
+msgstr ""
+
+#: section_anims.php:64
+msgid "Cube to top"
+msgstr ""
+
+#: section_anims.php:65
+msgid "Cube to bottom"
+msgstr ""
+
+#: section_anims.php:66
+msgid "Carousel to left"
+msgstr ""
+
+#: section_anims.php:67
+msgid "Carousel to right"
+msgstr ""
+
+#: section_anims.php:68
+msgid "Carousel to top"
+msgstr ""
+
+#: section_anims.php:69
+msgid "Carousel to bottom"
+msgstr ""
+
+#: section_anims.php:70
+msgid "Sides"
+msgstr ""
+
+#: section_anims.php:71
+msgid "Slide"
+msgstr ""
